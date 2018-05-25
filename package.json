@@ -1,0 +1,24 @@
+{
+    "name": "nodepreview",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/cp1001/nodepreview.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/cp1001/nodepreview/issues"
+    },
+    "homepage": "https://github.com/cp1001/nodepreview#readme",
+    "dependencies": {},
+    "devDependencies": {
+        "bson-objectid": "^1.2.3",
+        "chance": "^1.0.16"
+    }
+}
